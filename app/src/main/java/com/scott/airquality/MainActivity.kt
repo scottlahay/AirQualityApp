@@ -19,14 +19,6 @@ import kotlinx.coroutines.experimental.CommonPool
 import kotlinx.coroutines.experimental.android.UI
 import kotlinx.coroutines.experimental.async
 
-// dont display screen until there is text to display
-// enable offline mode by showing last updated air quality
-// handle no network connection on the first load/no data on load
-// default to last selected City when opening app up
-// Use ViewModel to keep the current state
-// load current location from db (Using Room)
-// have app use realtime updates from firebase
-
 @SuppressLint("SetTextI18n")
 class MainActivity : AppCompatActivity() {
 

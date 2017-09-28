@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "769011797539",
+    "firebase_url": "https://airquality-303de.firebaseio.com",
+    "project_id": "airquality-303de",
+    "storage_bucket": "airquality-303de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769011797539:android:3729f2dc34932657",
+        "android_client_info": {
+          "package_name": "com.scott.airquality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769011797539-7iv6i3e8pbuebl4i316406nh4ou0bvq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdWR3Oesi5ser8ddGfDs_zeaELhyYQe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
